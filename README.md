@@ -23,6 +23,8 @@ To examine a number of different techniques to predict future stock prices. We d
 2. https://in.finance.yahoo.com
 3. https://www.google.com/finance
 
+<img src="https://github.com/bhattmaulik1991/cmpe257StockPrice/blob/master/1.png" />
+
 ### References
 - [Scikit-Learn](http://scikit-learn.org/stable/)
 - [Theano](http://deeplearning.net/software/theano/)
